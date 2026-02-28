@@ -2,7 +2,7 @@
 
 Web Developer @ Reachout Marketing
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](MyResume)                                                 
+- 🔭 Here's my [portfolio]([MyResume](https://github.com/KavinSiva13/KavinSiva13/blob/main/Kavin%20Resume.pdf))                                                 
 - 🌱 I’m currently learning and MERN Stack and Integrating AI to my workflow
 - Engineeing at [<img src=),
 - Previously worked with [<img )
